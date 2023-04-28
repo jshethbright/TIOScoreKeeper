@@ -1,0 +1,9 @@
+[
+    {
+      "in": "YOUR MUSESCORE FILE NAME.mscz",
+      "out": [
+        "YOUR SCORE NAME HERE.pdf",
+        [ "", "-YourScoreNameHere.pdf" ]
+      ]
+    }
+  ]
