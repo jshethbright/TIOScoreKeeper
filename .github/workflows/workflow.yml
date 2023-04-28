@@ -1,4 +1,4 @@
-name: Generate PDFs from MSCZ files
+name: Generate and Upload PDFs from MSCZ files
 on: 
   release:
    types:
